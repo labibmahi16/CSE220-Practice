@@ -9,6 +9,7 @@ public class CreatingAndPrintingSinglyLinkedList{
         Node n3 = new Node(16);
     
         Node n4 = new Node(28);
+    
         Node n5 = new Node(70);
 
         n1.next = n2;
