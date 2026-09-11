@@ -21,7 +21,9 @@
         for(int j=0; j<mat3[0].length; j++){
             System.out.print(mat3 [i][j] + " ");
         }
+        
 System.out.println();
+        
     }
 }
     }
