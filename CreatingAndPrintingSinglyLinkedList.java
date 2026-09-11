@@ -3,6 +3,7 @@ public class CreatingAndPrintingSinglyLinkedList{
   public static void main(String[] args) {
 
         Node n1 = new Node(58);
+    
         Node n2 = new Node(25);
         Node n3 = new Node(16);
         Node n4 = new Node(28);
