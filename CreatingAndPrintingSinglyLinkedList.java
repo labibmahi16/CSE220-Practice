@@ -8,7 +8,7 @@ public class CreatingAndPrintingSinglyLinkedList{
     
         Node n3 = new Node(16);
     
-        Node n4 = new Node(28);
+        Node n4 = new Node(123);
     
         Node n5 = new Node(71);
 
